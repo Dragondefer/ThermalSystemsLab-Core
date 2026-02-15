@@ -1,0 +1,1 @@
+# Models the external thermal environment

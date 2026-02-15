@@ -1,0 +1,1 @@
+# Implements control law (e.g., thermostat logic)
